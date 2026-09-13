@@ -28,7 +28,7 @@ O projeto contempla:
 
 **Estrutura do projeto**
 
-bigdata-curso-eve-marlyo-valdemir/
+avaliacao_bidgata/
 
 │
 
